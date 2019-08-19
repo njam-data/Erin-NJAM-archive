@@ -33,6 +33,8 @@ ___
 - ["All the data"](https://github.com/njam-data/all-the-data) my "how to learn data journalism self-taught course"
 - [Where to find NJ health data](https://github.com/njam-data/health-data-collection) 
 - [Javascript, D3 and D3 mapping tutorial](https://github.com/njam-data/nicar18-javascript)
+- [The best damn onboarding document of all time](https://docs.google.com/document/d/1BIaHggGKyNO1nKPZ_YMEMqEaR6Tjd1IvGQs-y0g28lk/edit?usp=sharing), although it's not really of all time since Disha turned it into a fuller onboarding document somewhere.
+- [Tools we use for the site](https://docs.google.com/spreadsheets/d/1WUVJWEWaFY4YYKMuBij3hMklqv3-tifJHYJaWFE3w-Y/edit?usp=sharing) - just a list I put together at one point.
 
 ### Major story links
 Because I know these tend to get lost in the NJAM archives. NOTE: I've been scraping nj.com/data every day since March 2019 as well. Find that archive [here](https://docs.google.com/spreadsheets/d/1CtXpQJQEa5cNdes3qsAUucYxb2bOS3r2jwxgAcZvfeg/edit?usp=sharing).
