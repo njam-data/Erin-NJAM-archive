@@ -28,7 +28,7 @@ ___
 
 
 ### Tutorials & info
-- [Datawrapper tutorial](https://github.com/epetenko/datawrapper-tutorial/blob/master/Part_2_chart.md) - includes Excel tutorial in repo
+- [Datawrapper tutorial](https://github.com/epetenko/datawrapper-tutorial/blob/master/Part_2_chart.md) - includes Excel tutorial in repo. I also have a Sheets version of the data, with built-in notes, [here](https://docs.google.com/spreadsheets/d/19EtM87msUeBdmZhFyjKVB6DH8xCEE-0PZ-49UoXYEM0/edit?usp=sharing).
 - [15 things you can do in 15 minutes to step up your data journalism game](https://github.com/njam-data/15-things-for-dj)
 - ["All the data"](https://github.com/njam-data/all-the-data) my "how to learn data journalism self-taught course"
 - [Where to find NJ health data](https://github.com/njam-data/health-data-collection) 
