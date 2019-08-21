@@ -10,7 +10,7 @@ ___
 - [Scrape & track a page with Google sheets](https://github.com/njam-data/google-sheets-scraper) 
 - [Illustrator to fully interactive graphic](https://github.com/njam-data/Illustrator-to-fully-interactive-graphic) 
 - [New Jersey map as svg](https://github.com/njam-data/New-Jersey-svgs-2) useful for creating town outlines and graphics
-- Map of the stars tk
+- [Map of the Stars](https://github.com/njam-data/Map-of-the-Stars)
 
 ### Data & projects
 - [Census API notebooks](https://github.com/njam-data/Census-API-notebooks)
